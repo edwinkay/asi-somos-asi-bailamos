@@ -1,0 +1,24 @@
+body {
+  background-image: url(images/fondo.jpeg);
+  background-size: cover;
+}
+#titulo {
+  font-size: 50px;
+  text-align: center;
+  color: blue;
+}
+#welcome {
+  font-size: 35px;
+  color: blue;
+}
+ul {
+  font-size: 35px;
+  color: blue;
+  font-weight: bold;
+}
+fieldset {
+  width: 1000px;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 20px;
+}
