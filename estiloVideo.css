@@ -4,3 +4,6 @@ body {
 legend {
   font-weight: bold;
 }
+#sig {
+  text-align: center;
+}
