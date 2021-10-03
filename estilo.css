@@ -1,19 +1,21 @@
 body {
-  background-image: url(images/fondo.jpeg);
-  background-size: cover;
+  background-color: rgb(166, 73, 213);
+  background-image: url(images/fondo.png);
+  background-attachment: fixed;
 }
 #titulo {
   font-size: 50px;
   text-align: center;
-  color: blue;
+  color: rgb(252, 252, 252);
+  background-color: rgb(149, 32, 207);
 }
 #welcome {
   font-size: 35px;
-  color: blue;
+  color: rgb(12, 243, 247);
 }
 ul {
   font-size: 35px;
-  color: blue;
+  color: rgb(12, 243, 247);
   font-weight: bold;
 }
 fieldset {
@@ -21,4 +23,5 @@ fieldset {
   font-style: oblique;
   font-weight: bold;
   font-size: 20px;
+  color: white;
 }
