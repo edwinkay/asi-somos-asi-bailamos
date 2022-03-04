@@ -42,3 +42,18 @@ body {
     color: white;
     font-weight: bold;
 }
+@media (max-width: 640px) {
+  .contenedor{
+    max-width: 100%;
+  }
+  .caja{
+    width: 98%;
+    margin-left: 3px;
+  }
+  .nav-link{
+     bottom: -8px;
+  padding: 10px 22px;
+  margin: -18px;
+  }
+  
+}
